@@ -9,6 +9,9 @@ canvas,video{
     left:0;
     right:0;
     display: inline-block;
+    transform: rotateY(180deg);
+    -webkit-transform:rotateY(180deg); /* Safari and Chrome */
+    -moz-transform:rotateY(180deg);
 }
 canvas{
     z-index:2;
