@@ -1,8 +1,8 @@
-#Glass try on pod
+# Glass try on pod
 
 It is a simple `javascript` pod for my own use.
 
-##Getting started
+## Getting started
 
 After you cloned this repo, you have to run it on your `localhost` or have an HTTPS because Chrome will not allowing to
 use your camera.
